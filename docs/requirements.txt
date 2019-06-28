@@ -1,1 +1,2 @@
+radis-examples
 radis>=0.9.19
