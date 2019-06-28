@@ -1,2 +1,1 @@
-# Requirements
 radis>=0.9.19
